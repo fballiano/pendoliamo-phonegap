@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.phonegap.example"
+        id        = "it.pendoliamo.mobile"
         version   = "0.1.0">
 
 	<name>Pendoliamo</name>
 
 	<description>
-		Il primo social network per pendolari del treno!
+		Il mini social network dei pendolari del treno!
 	</description>
 
 	<author href="http://www.pendoliamo.it" email="info@pendoliamo.it">
