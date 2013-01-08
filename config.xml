@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "it.pendoliamo.mobile"
-        version   = "0.1.0">
+        id        = "H95XQBELRP.it.pendoliamo.mobile"
+        version   = "0.2.0">
 
 	<name>Pendoliamo</name>
 
