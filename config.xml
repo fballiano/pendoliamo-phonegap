@@ -2,7 +2,7 @@
 <widget xmlns = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "H95XQBELRP.it.pendoliamo.mobile"
-        version   = "0.2.0">
+        version   = "0.3.0">
 
 	<name>Pendoliamo</name>
 
@@ -20,6 +20,7 @@
 	<preference name="permissions" value="none"/>
 
 	<access origin="http://m.pendoliamo.it" />
+	<access origin="https://www.facebook.com" />
 
 	<icon src="icon.png" />
 	<icon src="apple-touch-icon-57x57.png" width="57" height="57" />
