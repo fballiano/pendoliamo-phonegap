@@ -21,6 +21,8 @@
 
 	<access origin="*" browserOnly="true" />
 
+	<gap:plugin name="ChildBrowser" />
+
 	<icon src="icon.png" />
 	<icon src="apple-touch-icon-57x57.png" width="57" height="57" />
 	<icon src="apple-touch-icon-72x72.png" gap:platform="ios" width="72" height="72" />
